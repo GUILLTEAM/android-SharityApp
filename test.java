@@ -9,6 +9,6 @@ public class test {
     }
 
     public String DisplayDefault() {
-       return message,
+       return message;
     }
 }
